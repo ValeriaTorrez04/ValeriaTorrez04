@@ -1,7 +1,7 @@
-Erika Valeria Torrez Torrez
-Nekito
-Ingenieria en Sistemas
-El unico lugar donde el éxito viene antes que el trabajo es en el diccionario
+##Erika Valeria Torrez Torrez
+##Nekito
+##Ingenieria en Sistemas
+##El unico lugar donde el éxito viene antes que el trabajo es en el diccionario
 <!--
 **ValeriaTorrez04/ValeriaTorrez04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
